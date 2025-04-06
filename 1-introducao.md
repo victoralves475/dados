@@ -12,7 +12,7 @@ Exemplo prático: coletar dados é fácil, mas transformá-los em conhecimento �
 
 **Mapa Mental:**
 
-![mapa mental - dado info conhecimento](/img/dado-info-conheciemento.png)
+![mapa mental - dado info conhecimento](img/dado-info-conhecimento.png)
 
 ## Mineração de Dados (MD)
 
